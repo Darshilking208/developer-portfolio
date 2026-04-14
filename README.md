@@ -22,8 +22,9 @@
 > 🌐 **Live Website:** [darshilking208.github.io/developer-portfolio](https://darshilking208.github.io/developer-portfolio/)
 
 <!-- Replace the src below with your actual screenshot once deployed -->
-<img src="https://via.placeholder.com/900x500/0d1117/6E40C9?text=Developer+Portfolio+Screenshot" alt="Portfolio Preview" width="85%" style="border-radius:10px;" />
-
+<p align="center">
+  <img src="dkp.png" width="400"/>
+</p>
 <br/>
 <sub>💡 <i>Screenshot preview — visit the live link above to see it in action</i></sub>
 
